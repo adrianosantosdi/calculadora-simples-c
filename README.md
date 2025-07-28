@@ -24,4 +24,4 @@ Todas as interações de entrada e saída são feitas pelo terminal.
 Nesse projeto só foi utilizada a Linguagem C para o desenvolvimento da aplicação e o Git para o versionamento do código.
 
 ## Autor
-- Davi Bittencourt (davibital) - Estudante do curso de Sistemas de Informação da UFS - [LinkedIn](https://www.linkedin.com/in/davibital/) - [Instagram](https://www.instagram.com/_davialmeiida/)
+- \Adriano Santos - Estudante do curso ciencia da computação 
